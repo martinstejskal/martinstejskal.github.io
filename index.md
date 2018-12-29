@@ -1,3 +1,3 @@
 # Martin Stejskal
 
-![Martin Stejskal](https://martinstejskal.github.com/img/MartinStejskal.jpg)
+![Martin Stejskal](https://martinstejskal.github.io/img/MartinStejskal.jpg)
